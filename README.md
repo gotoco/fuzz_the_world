@@ -1,4 +1,4 @@
-# NetBSD - Quality Assurance // FUZZ THE PLANET (or at least NetBSD)
+# NetBSD - FUZZ THE PLANET (or at least NetBSD)
 Repository contains useful examples for Fuzzing NetBSD kernel
 
 ## Tools:
